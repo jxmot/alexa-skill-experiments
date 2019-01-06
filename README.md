@@ -8,5 +8,5 @@ I bought an Echo Dot to control some WiFi-enabled lights and switches. And after
 
 # Purpose
 
-This repository contains some experiments that are intended either as Skill applications or as *support* software. I don't guarantee that **anything** here actually works. But something does does work and it's usable I'll likely create a repository specifically for it.
+This repository contains some experiments that are intended either as Skill applications or as *support* software. I don't guarantee that **anything** here actually works. But if something does does work and it's usable then it's likely that I'll create a repository specifically for it.
 
